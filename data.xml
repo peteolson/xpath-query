@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<table>
+	<row>
+	  <vendor_id>1</vendor_id>
+	  <item>hat</item>
+	  <color>red</color>
+	  <season>summer</season>
+	</row>
+	<row>
+	  <vendor_id>2</vendor_id>
+	  <item>hat</item>
+	  <color>blue</color>
+	  <season>summer</season>
+	</row>
+	<row>
+	  <vendor_id>4</vendor_id>
+	  <item>hat</item>
+	  <color>red</color>
+	  <season>winter</season>
+	</row>
+	<row>
+	  <vendor_id>4</vendor_id>
+	  <item>hat</item>
+	  <color>red</color>
+	  <season>winter</season>
+	</row>
+	<row>
+	  <vendor_id>5</vendor_id>
+	  <item>hat</item>
+	  <color>blue</color>
+	  <season>summer</season>
+	</row>
+	<row>
+	  <vendor_id>6</vendor_id>
+	  <item>hat</item>
+	  <color>red</color>
+	  <season>winter</season>
+	</row>
+</table>
+
